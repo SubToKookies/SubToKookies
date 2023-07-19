@@ -2,7 +2,7 @@
 - 👀 I’m interested in youtube
 - 🌱 I’m currently learning bedwars
 - 💞️ I’m looking to collaborate on videos
-- 📫 How to reach me subscribe               & Add me on discord     peogamer006#1867
+- 📫 How to reach me subscribe 
 
 <!---
 SubToKookies/SubToKookies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
