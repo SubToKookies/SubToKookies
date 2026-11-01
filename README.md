@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SubToKookies
-- 👀 I’m interested in youtube
-- 🌱 I’m currently learning bedwars
-- 💞️ I’m looking to collaborate on videos
-- 📫 How to reach me subscribe 
+- 👀 I’m interested in cars
+- 🌱 I’m currently learning how to build my own JARVIS
+- 💞️ I’m looking to collaborate/learn from other people
+- 📫 How to reach me: N/A 
 
 <!---
 SubToKookies/SubToKookies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
